@@ -7,3 +7,10 @@
 4. [Factorial function](./4RecursiveFunction.js)
 5. [Helper Method Recursion](./5HelperMethodRecursion.js)
 6. [Pure Recursion instead of Helper Method](./6.PureRecursion.js)
+
+
+# Index - Problems
+1. [Factorial](./problems/factorial.js)
+2. [Power](./problems/power.js)
+3. [Product of an Array](./problems/productOfArray.js)
+4. [Recursive Function](./problems/recursiveRange.js)
