@@ -10,13 +10,15 @@ const insertionSort = (arr) => {
         let currentVal = arr[ i ];
         let j = i - 1;
         //for loop to look at all the previous items and if they are greater shift them to the right
+        // if left element greater than right, shift them to  right side
         while(j >= 0 && arr[ j ] > currentVal) {
             [ arr[ j + 1 ], arr[ j ] ] = [ arr[ j ], arr[ j + 1 ] ];
             j--;
         }
-        arr[ j + 1 ] = currentVal;
     }
     console.log(arr);
 };
 
 insertionSort([ 14, 54, 23, 43, 19 ]);
+insertionSort([ 5, 4, 8, 1, 9 ]);
+insertionSort([ 5, 4, 8, 1, 9 ]);
