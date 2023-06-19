@@ -18,6 +18,9 @@ _-With JavaScript and TypeScript_
   - [Merge Sort](./A4%20Sorting%20Algortihms/merge%20sort/)
     - [Merge Arrays](./A4%20Sorting%20Algortihms/merge%20sort/merge-array.js)
     - [Merge Sort](./A4%20Sorting%20Algortihms/merge%20sort/merge-sort.js) 
+  - [Quick Sort](./A4%20Sorting%20Algortihms/quick%20sort/)
+    - [Pivot Helper](./A4%20Sorting%20Algortihms/quick%20sort/pivot-helper.js)
+    - [Quick sort](./A4%20Sorting%20Algortihms/quick%20sort/quick-sort.js) 
 
 #### Leet Code Problems
 
