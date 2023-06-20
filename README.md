@@ -21,6 +21,9 @@ _-With JavaScript and TypeScript_
   - [Quick Sort](./A4%20Sorting%20Algortihms/quick%20sort/)
     - [Pivot Helper](./A4%20Sorting%20Algortihms/quick%20sort/pivot-helper.js)
     - [Quick sort](./A4%20Sorting%20Algortihms/quick%20sort/quick-sort.js) 
+  - [Radix sort](./A4%20Sorting%20Algortihms/radix%20sort/)
+    - [Helper Functions](./A4%20Sorting%20Algortihms/radix%20sort/helper-functions.js)
+    - [Radix Sort](./A4%20Sorting%20Algortihms/radix%20sort/radix-sort.js)  
 
 #### Leet Code Problems
 
