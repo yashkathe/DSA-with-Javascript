@@ -24,6 +24,8 @@ _-With JavaScript and TypeScript_
   - [Radix sort](./A4%20Sorting%20Algortihms/radix%20sort/)
     - [Helper Functions](./A4%20Sorting%20Algortihms/radix%20sort/helper-functions.js)
     - [Radix Sort](./A4%20Sorting%20Algortihms/radix%20sort/radix-sort.js)  
+- [Data Structures - Introduction](./A5%20Data%20Structures%20Introduction/)
+  - [Class Syntax](./A5%20Data%20Structures%20Introduction/class-syntax.js)
 
 #### Leet Code Problems
 
