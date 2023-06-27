@@ -27,6 +27,7 @@ _-With JavaScript and TypeScript_
 - [Data Structures - Introduction](./A5%20Data%20Structures%20Introduction/)
   - [Class Syntax](./A5%20Data%20Structures%20Introduction/class-syntax.js)
 - [Singly Linked List](./A6%20Singly%20Linked%20List/linked%20-list.js)
+- [Doubly Linked List](./A7%20Doubly%20Linked%20List/doubly-linked-list.js)
 
 #### Leet Code Problems
 
