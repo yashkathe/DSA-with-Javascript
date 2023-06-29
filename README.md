@@ -28,6 +28,11 @@ _-With JavaScript and TypeScript_
   - [Class Syntax](./A5%20Data%20Structures%20Introduction/class-syntax.js)
 - [Singly Linked List](./A6%20Singly%20Linked%20List/linked%20-list.js)
 - [Doubly Linked List](./A7%20Doubly%20Linked%20List/doubly-linked-list.js)
+- [Stacks and Queues](./A8%20Stack%20and%20Queues/)
+  - [Stacks using Array implementation](./A8%20Stack%20and%20Queues/stacks-array.js)
+  - [Stacks using Linked List implementation](./A8%20Stack%20and%20Queues/stack-linked-list.js)
+  - [Queues using Array implementation](./A8%20Stack%20and%20Queues/queues-array.js)
+  - [Queues using Linked List implementation](./A8%20Stack%20and%20Queues/queues-linked-list.js)  
 
 #### Leet Code Problems
 
