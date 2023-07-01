@@ -33,6 +33,7 @@ _-With JavaScript and TypeScript_
   - [Stacks using Linked List implementation](./A8%20Stack%20and%20Queues/stack-linked-list.js)
   - [Queues using Array implementation](./A8%20Stack%20and%20Queues/queues-array.js)
   - [Queues using Linked List implementation](./A8%20Stack%20and%20Queues/queues-linked-list.js)  
+- [Binary Search Trees](./A9%20Binary%20Search%20Trees/binary-search-trees.js) 
 
 #### Leet Code Problems
 
