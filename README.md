@@ -47,6 +47,8 @@ _-With JavaScript and TypeScript_
       - [Minimum Distance between bst nodes](./B1%20LEETCODE-Easy/Binary-Search-Tree/min-dist-between-nodes.js)
       - [Range Sum of BST](./B1%20LEETCODE-Easy/Binary-Search-Tree/range-sum.js)
       - [Search in a BST](./B1%20LEETCODE-Easy/Binary-Search-Tree/search-a-node.js) 
+      - [Mode in BST](./B1%20LEETCODE-Easy/Binary-Search-Tree/mode-in-bst.js)
+      - [Two Sum for BST nodes](./B1%20LEETCODE-Easy/Binary-Search-Tree/two-sum.js)
     - [Linked List](./B1%20LEETCODE-Easy/Linked%20List/)
       - [Middle of Linked List](./B1%20LEETCODE-Easy/Linked%20List/middle-of-linked-list.js)
       - [Palindrome Linked List](./B1%20LEETCODE-Easy/Linked%20List/palindrome-linked-list.js) 
