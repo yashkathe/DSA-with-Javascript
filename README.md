@@ -35,6 +35,7 @@ _-With JavaScript and TypeScript_
   - [Queues using Linked List implementation](./A8%20Stack%20and%20Queues/queues-linked-list.js)  
 - [Binary Search Trees](./A9%20Binary%20Search%20Trees/binary-search-trees.js) 
 - [Binary Heaps](./A10%20Binary%20Heaps/binary-heaps.js)
+- [Priority Queue](./A11%20Priority%20Queue/priority-queue.js)
 
 #### Leet Code Problems
 
