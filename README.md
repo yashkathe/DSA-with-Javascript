@@ -34,6 +34,7 @@ _-With JavaScript and TypeScript_
   - [Queues using Array implementation](./A8%20Stack%20and%20Queues/queues-array.js)
   - [Queues using Linked List implementation](./A8%20Stack%20and%20Queues/queues-linked-list.js)  
 - [Binary Search Trees](./A9%20Binary%20Search%20Trees/binary-search-trees.js) 
+- [Binary Heaps](./A10%20Binary%20Heaps/binary-heaps.js)
 
 #### Leet Code Problems
 
@@ -60,3 +61,12 @@ _-With JavaScript and TypeScript_
     - [Recursion](./B1%20LEETCODE-Easy/Recursion/)
       - [Power of 2](./B1%20LEETCODE-Easy/Recursion/power-of-2.js) 
       - [Power of 4](./B1%20LEETCODE-Easy/Recursion/power-of-4.js)  
+    - [Strings](./B1%20LEETCODE-Easy/String/)
+      - [Two Sum](./B1%20LEETCODE-Easy/String/two-sum.js)
+      - [Palindrome Number](./B1%20LEETCODE-Easy/String/palindrome-number.js)  
+      - [Roman to Integer](./B1%20LEETCODE-Easy/String/roman-to-integer.js)  
+      - [Defanging IP address](./B1%20LEETCODE-Easy/String/defanging-ip.ts)  
+      - [Final Value of Variable After Performing Operations](./B1%20LEETCODE-Easy/String/value-after-operation.ts)  
+      - [Maximum Number of Words Found in Sentence](./B1%20LEETCODE-Easy/String/max-words-in-sentence.ts)  
+      - [Jewels and Stones](./B1%20LEETCODE-Easy/String/jewels-and-stones.ts)  
+      - [Goal Parser Interpretation](./B1%20LEETCODE-Easy/String/goal-parser.ts)  
