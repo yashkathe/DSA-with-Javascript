@@ -36,6 +36,9 @@ _-With JavaScript and TypeScript_
 - [Binary Search Trees](./A9%20Binary%20Search%20Trees/binary-search-trees.js) 
 - [Binary Heaps](./A10%20Binary%20Heaps/binary-heaps.js)
 - [Priority Queue](./A11%20Priority%20Queue/priority-queue.js)
+- [Hash Tables](./A12%20Hash%20Tables)
+  - [Hash Functions](./A12%20Hash%20Tables/hash-functions.js)
+  - [Hash Tables](./A12%20Hash%20Tables/hash-tables.js)  
 
 #### Leet Code Problems
 
@@ -70,4 +73,9 @@ _-With JavaScript and TypeScript_
       - [Final Value of Variable After Performing Operations](./B1%20LEETCODE-Easy/String/value-after-operation.ts)  
       - [Maximum Number of Words Found in Sentence](./B1%20LEETCODE-Easy/String/max-words-in-sentence.ts)  
       - [Jewels and Stones](./B1%20LEETCODE-Easy/String/jewels-and-stones.ts)  
-      - [Goal Parser Interpretation](./B1%20LEETCODE-Easy/String/goal-parser.ts)  
+      - [Goal Parser Interpretation](./B1%20LEETCODE-Easy/String/goal-parser.ts)    
+
+  
+- [Medium Level Problems](./B2%20LEETCODE-Medium/)  
+  - [Linked List](./B2%20LEETCODE-Medium/Linked%20List/merge-nodes-between-zero.js)
+    - [Merge nodes between zero](./B2%20LEETCODE-Medium/Linked%20List/merge-nodes-between-zero.js) 
