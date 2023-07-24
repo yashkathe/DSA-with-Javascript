@@ -39,6 +39,7 @@ _-With JavaScript and TypeScript_
 - [Hash Tables](./A12%20Hash%20Tables)
   - [Hash Functions](./A12%20Hash%20Tables/hash-functions.js)
   - [Hash Tables](./A12%20Hash%20Tables/hash-tables.js)  
+- [Graphs](./A13%20Graphs/graph.js)
 
 #### Leet Code Problems
 
@@ -49,6 +50,7 @@ _-With JavaScript and TypeScript_
       - [Reverse Array](./B1%20LEETCODE-Easy/Arrays/reverse-array.js)
       - [Shuffle Array](./B1%20LEETCODE-Easy/Arrays/suffle-array.js)
       - [Number of good pairs](./B1%20LEETCODE-Easy/Arrays/number-of-good-pairs.js)
+      - [Running sum of 1d array](./B1%20LEETCODE-Easy/Arrays/running-sum-1d.js)
     - [Binary Search](./B1%20LEETCODE-Easy/Binary%20Search/)
         - [Count negative numbers in a sorted matrix](./B1%20LEETCODE-Easy/Binary%20Search/count-negatives.js)
     - [Binary Search Tree](./B1%20LEETCODE-Easy/Binary-Search-Tree/)
@@ -63,12 +65,14 @@ _-With JavaScript and TypeScript_
       - [Palindrome Linked List](./B1%20LEETCODE-Easy/Linked%20List/palindrome-linked-list.js) 
       - [Remove duplicates from sorted list](./B1%20LEETCODE-Easy/Linked%20List/remove-duplicates-from-sorted-list.js) 
       - [Remove linked list elements](./B1%20LEETCODE-Easy/Linked%20List/remove-linked-list-elements.js)  
+      - [Print linked list as string](./B1%20LEETCODE-Easy/Linked%20List/linked_list-to-string.js)
     - [Merging and Sorting](./B1%20LEETCODE-Easy/Merging%20and%20Sorting/)
       - [Merge two sorted lists](./B1%20LEETCODE-Easy/Merging%20and%20Sorting/merge_two_sorted_lists.js)
       - [Remove duplicates from sorted array](./B1%20LEETCODE-Easy/Merging%20and%20Sorting/remove_duplicates_from_sorted_array.js)  
     - [Recursion](./B1%20LEETCODE-Easy/Recursion/)
       - [Power of 2](./B1%20LEETCODE-Easy/Recursion/power-of-2.js) 
       - [Power of 4](./B1%20LEETCODE-Easy/Recursion/power-of-4.js)  
+      - [Print linked list as string](./B1%20LEETCODE-Easy/Linked%20List/linked_list-to-string.js)
     - [Strings](./B1%20LEETCODE-Easy/String/)
       - [Two Sum](./B1%20LEETCODE-Easy/String/two-sum.js)
       - [Palindrome Number](./B1%20LEETCODE-Easy/String/palindrome-number.js)  
