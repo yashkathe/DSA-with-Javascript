@@ -93,3 +93,5 @@ _-With JavaScript and TypeScript_
 - [Medium Level Problems](./B2%20LEETCODE-Medium/)  
   - [Linked List](./B2%20LEETCODE-Medium/Linked%20List/merge-nodes-between-zero.js)
     - [Merge nodes between zero](./B2%20LEETCODE-Medium/Linked%20List/merge-nodes-between-zero.js) 
+    - [Maximum Twin Sum of Linked List](./B2%20LEETCODE-Medium/Linked%20List/max-twinSum-of-linked-list.js)
+    - [Merge other linked list in between two nodes of previous list](./B2%20LEETCODE-Medium/Linked%20List/merge-in-between.js)
