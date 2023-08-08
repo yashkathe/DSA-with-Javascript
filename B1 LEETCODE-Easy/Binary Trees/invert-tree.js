@@ -31,18 +31,18 @@ Output: []
 
 */
 
-var invertTree = function (root) {
+var invertTree = function(root) {
 
-    if (!root) return null
+    if(!root) return null;
 
-    if (root.left) invertTree(root.left)
-    if (root.right) invertTree(root.right)
+    if(root.left) invertTree(root.left);
+    if(root.right) invertTree(root.right);
 
-    let temp = root.left
-    root.left = root.right
-    root.right = temp
+    let temp = root.left;
+    root.left = root.right;
+    root.right = temp;
 
-    return root
+    return root;
 
 };
 
@@ -51,3 +51,19 @@ var invertTree = function (root) {
 We use post order traversal for this
 So we start from bottom subtrees and swap them and come above and above to swap rest of the tree
 */
+
+// WITHOUT TEMP VAR
+
+var invertTree = function(root) {
+
+    if(!root) return null;
+
+    let leftVal = invertTree(root.left);
+    let rightVal = invertTree(root.right);
+
+    root.right = leftVal;
+    root.left = rightVal;
+
+    return root;
+
+};

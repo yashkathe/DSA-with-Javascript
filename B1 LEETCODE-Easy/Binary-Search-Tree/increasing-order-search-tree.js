@@ -38,3 +38,5 @@ var increasingBST = function(root) {
     return head.right;
 
 };
+
+/* We just keep on adding new node to dummy node on right side and shift the cursor */

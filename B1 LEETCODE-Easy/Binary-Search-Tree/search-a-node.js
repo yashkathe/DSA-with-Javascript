@@ -20,24 +20,40 @@ Output: []
 
 var searchBST = function(root, val) {
 
-    let queue = []
+    let queue = [];
 
-    let node = root
+    let node = root;
 
-    queue.push(node)
-    
-    while(queue.length){
+    queue.push(node);
 
-        node = queue.shift()
+    while(queue.length) {
 
-        if(node.val == val){
-            return node
+        node = queue.shift();
+
+        if(node.val == val) {
+            return node;
         }
 
-        if(node.left) queue.push(node.left)
-        if(node.right) queue.push(node.right)
+        if(node.left) queue.push(node.left);
+        if(node.right) queue.push(node.right);
 
     }
 
-    return null
-}
+    return null;
+};
+
+// Using depth first search
+
+var searchBST = function(root, val) {
+
+    if(!root) return null;
+
+    if(root.val === val) return root;
+
+    let leftVal = searchBST(root.left, val);
+    if(leftVal) return leftVal;
+    let rightVal = searchBST(root.right, val);
+    if(rightVal) return rightVal;
+
+    return null;
+};
