@@ -135,3 +135,8 @@ _-With JavaScript and TypeScript_
   - [Permutations](./B2%20LEETCODE-Medium/Backtracking/permutations.js)
   - [Subsets](./B2%20LEETCODE-Medium/Backtracking/subsets.js)
   - [Subsets 2](./B2%20LEETCODE-Medium/Backtracking/subsets2.js)
+  - [Generate  parenthesis](./B2%20LEETCODE-Medium/Backtracking/generate-parenthesis.js)
+  - [Letter Tile possibilities](./B2%20LEETCODE-Medium/Backtracking/letter-tiles-possibilities.js)
+
+- [String](./B2%20LEETCODE-Medium/String/)
+  - [Maxium Nesting Depth of two parethesis](./B2%20LEETCODE-Medium/String/Maximum-Nesting-Depth-of-Two-Valid-Parentheses.js)
