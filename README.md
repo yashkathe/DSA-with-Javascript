@@ -140,3 +140,9 @@ _-With JavaScript and TypeScript_
 
 - [String](./B2%20LEETCODE-Medium/String/)
   - [Maxium Nesting Depth of two parethesis](./B2%20LEETCODE-Medium/String/Maximum-Nesting-Depth-of-Two-Valid-Parentheses.js)
+
+- [Tress](./B2%20LEETCODE-Medium/Trees/)
+  - [Binary Search Tree to Greater Sum tree](./B2%20LEETCODE-Medium/Trees/BST-to-greater-sum-tree.js) 
+  - [Sum of Deepest Leaves](./B2%20LEETCODE-Medium/Trees/Deepest-leaves-sum.js) 
+  - [Maximum Binary Tree](./B2%20LEETCODE-Medium/Trees/Max-Binary-Tree.js) 
+  - [Sum of Nodes with even valued grandparents](./B2%20LEETCODE-Medium/Trees/Sum-of-node-with-even-valued-grandparents.js) 
