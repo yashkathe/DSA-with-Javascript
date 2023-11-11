@@ -21,15 +21,38 @@ Input: root = [1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,1
 Output: 5
 */
 
-var maxDepth = function(root) {
+var maxDepth = function (root) {
+	if (!root) return 0;
+	maximumDepth = 0;
 
-    if(!root) return 0;
-    maximumDepth = 0;
+	for (let node of root.children) {
+		maximumDepth = Math.max(maximumDepth, maxDepth(node));
+	}
 
-    for(let node of root.children) {
-        maximumDepth = Math.max(maximumDepth, maxDepth(node));
-    }
+	return maximumDepth + 1;
+};
 
-    return maximumDepth + 1;
+// BFS
 
+var maxDepth = function (root) {
+	if (!root) return 0;
+
+	let level = 0;
+	let queue = [];
+	queue.push(root);
+
+	while (queue.length) {
+		let levelSize = queue.length; // snapshot of current queue length
+
+		for (let i = 0; i < levelSize; i++) {
+			let node = queue.shift();
+
+			if (node.left) queue.push(node.left);
+			if (node.right) queue.push(node.right);
+		}
+
+		level += 1;
+	}
+
+	return level;
 };
