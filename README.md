@@ -116,6 +116,7 @@ _-With JavaScript and TypeScript_
     - [Jewels and Stones](./B1%20LEETCODE-Easy/String/jewels-and-stones.ts)
     - [Goal Parser Interpretation](./B1%20LEETCODE-Easy/String/goal-parser.ts)
   - [Trees](./B1%20LEETCODE-Easy/Trees/)
+    - [Construct height balanced binary tree using sorted array](./B1%20LEETCODE-Easy/Trees/create-tree-using-sorted-array.js)
     - [Invert Binary Tree](./B1%20LEETCODE-Easy/Trees/invert-binary-tree.js)
     - [Post order traversal](./B1%20LEETCODE-Easy/Trees/post-order-traversal.js)
     - [Pre order traversal](./B1%20LEETCODE-Easy/Trees/pre-order-traversal.js)
