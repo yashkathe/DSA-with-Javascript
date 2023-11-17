@@ -123,6 +123,12 @@ _-With JavaScript and TypeScript_
     - [Maximum depth of tree](./B1%20LEETCODE-Easy/Trees/max-depth.js)
 - [Medium Level Problems](./B2%20LEETCODE-Medium/)
 
+  - [Array and Hashings](./B2%20LEETCODE-Medium/Array-and-Hashing/)
+
+    - [Group Anagrams](./B2%20LEETCODE-Medium/Array-and-Hashing/group-anagrams.js)
+    - [Longest Consecutive Sequence](./B2%20LEETCODE-Medium/Array-and-Hashing/longest-consecutive-sequence.js)
+    - [Product except self](./B2%20LEETCODE-Medium/Array-and-Hashing/product-except-self.js)
+
   - [Concepts](./B2%20LEETCODE-Medium/Concepts/)
 
     - [Debouncing](./B2%20LEETCODE-Medium/Concepts/debouncing.js)
@@ -139,32 +145,32 @@ _-With JavaScript and TypeScript_
   - [Stacks and Queues](./B2%20LEETCODE-Medium/Stacks%20and%20Queues/)
     - [Remove Node having greater value anywhere to the right side of it](./B2%20LEETCODE-Medium/Linked%20List/remove-nodes.js)
 
-  -[Backtracking](./B2%20LEETCODE-Medium/Backtracking/)
-
-  - [Permutations](./B2%20LEETCODE-Medium/Backtracking/permutations.js)
-  - [Subsets](./B2%20LEETCODE-Medium/Backtracking/subsets.js)
-  - [Subsets 2](./B2%20LEETCODE-Medium/Backtracking/subsets2.js)
-  - [Generate parenthesis](./B2%20LEETCODE-Medium/Backtracking/generate-parenthesis.js)
-  - [Letter Tile possibilities](./B2%20LEETCODE-Medium/Backtracking/letter-tiles-possibilities.js)
-
-- [String](./B2%20LEETCODE-Medium/String/)
-
-  - [Maxium Nesting Depth of two parethesis](./B2%20LEETCODE-Medium/String/Maximum-Nesting-Depth-of-Two-Valid-Parentheses.js)
-
-- [Tress](./B2%20LEETCODE-Medium/Trees/)
-  - [Level order traversal of BST](./B2%20LEETCODE-Medium/Trees/Binary-tree-level-order-traversal.js)
-  - [Right Side View of BST](./B2%20LEETCODE-Medium/Trees/Binary-Tree-right-side-view.js)
-  - [Binary Search Tree to Greater Sum tree](./B2%20LEETCODE-Medium/Trees/BST-to-greater-sum-tree.js)
-  - [Check Completness of BST](./B2%20LEETCODE-Medium/Trees/Check-completness-of-BST.js)
-  - [Sum of Deepest Leaves](./B2%20LEETCODE-Medium/Trees/Deepest-leaves-sum.js)
-  - [Find duplicate subtrees](./B2%20LEETCODE-Medium/Trees/Find-duplicate-subtrees.js)
-  - [Flip Equivalent Binary Trees](./B2%20LEETCODE-Medium/Trees/Flip-Equivalent-Binary-Trees.js)
-  - [Count Good nodes in a Binary Tree](./B2%20LEETCODE-Medium/Trees/Good-Node.js)
-  - [Insert into BST](./B2%20LEETCODE-Medium/Trees/Insert-into-BST.js)
-  - [Kth smallest element](./B2%20LEETCODE-Medium/Trees/K-th-smallest-element.js)
-  - [Lowest common ancestor of BST](./B2%20LEETCODE-Medium/Trees/Lowest-common-ancestor-of-BST.js)
-  - [Maximum Binary Tree](./B2%20LEETCODE-Medium/Trees/Max-Binary-Tree.js)
-  - [Sum of Nodes with even valued grandparents](./B2%20LEETCODE-Medium/Trees/Sum-of-node-with-even-valued-grandparents.js)
-  - [Sum root to leaf number](./B2%20LEETCODE-Medium/Trees/Sum-root-to-leaf-numbers.js)
-  - [Validate Binary Search Tree](./B2%20LEETCODE-Medium/Trees/Validate-binary-search-tree.js)
-  - [Zig Zag level traversal](./B2%20LEETCODE-Medium/Trees/Zig-Zag-traversal.js)
+  - [Backtracking](./B2%20LEETCODE-Medium/Backtracking/)
+  
+    - [Permutations](./B2%20LEETCODE-Medium/Backtracking/permutations.js)
+    - [Subsets](./B2%20LEETCODE-Medium/Backtracking/subsets.js)
+    - [Subsets 2](./B2%20LEETCODE-Medium/Backtracking/subsets2.js)
+    - [Generate parenthesis](./B2%20LEETCODE-Medium/Backtracking/generate-parenthesis.js)
+    - [Letter Tile possibilities](./B2%20LEETCODE-Medium/Backtracking/letter-tiles-possibilities.js)
+  
+  - [String](./B2%20LEETCODE-Medium/String/)
+  
+    - [Maxium Nesting Depth of two parethesis](./B2%20LEETCODE-Medium/String/Maximum-Nesting-Depth-of-Two-Valid-Parentheses.js)
+  
+  - [Tress](./B2%20LEETCODE-Medium/Trees/)
+    - [Level order traversal of BST](./B2%20LEETCODE-Medium/Trees/Binary-tree-level-order-traversal.js)
+    - [Right Side View of BST](./B2%20LEETCODE-Medium/Trees/Binary-Tree-right-side-view.js)
+    - [Binary Search Tree to Greater Sum tree](./B2%20LEETCODE-Medium/Trees/BST-to-greater-sum-tree.js)
+    - [Check Completness of BST](./B2%20LEETCODE-Medium/Trees/Check-completness-of-BST.js)
+    - [Sum of Deepest Leaves](./B2%20LEETCODE-Medium/Trees/Deepest-leaves-sum.js)
+    - [Find duplicate subtrees](./B2%20LEETCODE-Medium/Trees/Find-duplicate-subtrees.js)
+    - [Flip Equivalent Binary Trees](./B2%20LEETCODE-Medium/Trees/Flip-Equivalent-Binary-Trees.js)
+    - [Count Good nodes in a Binary Tree](./B2%20LEETCODE-Medium/Trees/Good-Node.js)
+    - [Insert into BST](./B2%20LEETCODE-Medium/Trees/Insert-into-BST.js)
+    - [Kth smallest element](./B2%20LEETCODE-Medium/Trees/K-th-smallest-element.js)
+    - [Lowest common ancestor of BST](./B2%20LEETCODE-Medium/Trees/Lowest-common-ancestor-of-BST.js)
+    - [Maximum Binary Tree](./B2%20LEETCODE-Medium/Trees/Max-Binary-Tree.js)
+    - [Sum of Nodes with even valued grandparents](./B2%20LEETCODE-Medium/Trees/Sum-of-node-with-even-valued-grandparents.js)
+    - [Sum root to leaf number](./B2%20LEETCODE-Medium/Trees/Sum-root-to-leaf-numbers.js)
+    - [Validate Binary Search Tree](./B2%20LEETCODE-Medium/Trees/Validate-binary-search-tree.js)
+    - [Zig Zag level traversal](./B2%20LEETCODE-Medium/Trees/Zig-Zag-traversal.js)
