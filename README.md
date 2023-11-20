@@ -128,6 +128,9 @@ _-With JavaScript and TypeScript_
     - [Group Anagrams](./B2%20LEETCODE-Medium/Array-and-Hashing/group-anagrams.js)
     - [Longest Consecutive Sequence](./B2%20LEETCODE-Medium/Array-and-Hashing/longest-consecutive-sequence.js)
     - [Product except self](./B2%20LEETCODE-Medium/Array-and-Hashing/product-except-self.js)
+    - [Encode and decode](./B2%20LEETCODE-Medium/Array-and-Hashing/encode-and-decode-tiny-url.js)
+    - [Search 2-D Matrix](./B2%20LEETCODE-Medium/Array-and-Hashing/search-2d-matrix.js)
+    -
 
   - [Concepts](./B2%20LEETCODE-Medium/Concepts/)
 
@@ -141,23 +144,26 @@ _-With JavaScript and TypeScript_
     - [Remove Node having greater value anywhere to the right side of it](./B2%20LEETCODE-Medium/Linked%20List/remove-nodes.js)
     - [Swap nodes in pairs of two](./B2%20LEETCODE-Medium/Linked%20List/swap-nodes.in-pairs.js)
     - [Two Sum](./B2%20LEETCODE-Medium/Linked%20List/sum-of-nodes.js)
+    - [Sort Colors](./B2%20LEETCODE-Medium/Array-and-Hashing/sort-colors.js)
 
   - [Stacks and Queues](./B2%20LEETCODE-Medium/Stacks%20and%20Queues/)
+
     - [Remove Node having greater value anywhere to the right side of it](./B2%20LEETCODE-Medium/Linked%20List/remove-nodes.js)
 
   - [Backtracking](./B2%20LEETCODE-Medium/Backtracking/)
-  
+
     - [Permutations](./B2%20LEETCODE-Medium/Backtracking/permutations.js)
     - [Subsets](./B2%20LEETCODE-Medium/Backtracking/subsets.js)
     - [Subsets 2](./B2%20LEETCODE-Medium/Backtracking/subsets2.js)
     - [Generate parenthesis](./B2%20LEETCODE-Medium/Backtracking/generate-parenthesis.js)
     - [Letter Tile possibilities](./B2%20LEETCODE-Medium/Backtracking/letter-tiles-possibilities.js)
-  
+
   - [String](./B2%20LEETCODE-Medium/String/)
-  
+
     - [Maxium Nesting Depth of two parethesis](./B2%20LEETCODE-Medium/String/Maximum-Nesting-Depth-of-Two-Valid-Parentheses.js)
-  
+
   - [Tress](./B2%20LEETCODE-Medium/Trees/)
+
     - [Level order traversal of BST](./B2%20LEETCODE-Medium/Trees/Binary-tree-level-order-traversal.js)
     - [Right Side View of BST](./B2%20LEETCODE-Medium/Trees/Binary-Tree-right-side-view.js)
     - [Binary Search Tree to Greater Sum tree](./B2%20LEETCODE-Medium/Trees/BST-to-greater-sum-tree.js)
@@ -174,3 +180,8 @@ _-With JavaScript and TypeScript_
     - [Sum root to leaf number](./B2%20LEETCODE-Medium/Trees/Sum-root-to-leaf-numbers.js)
     - [Validate Binary Search Tree](./B2%20LEETCODE-Medium/Trees/Validate-binary-search-tree.js)
     - [Zig Zag level traversal](./B2%20LEETCODE-Medium/Trees/Zig-Zag-traversal.js)
+
+  - [Two Pointers](./B2%20LEETCODE-Medium/Two-Pointers/)
+    - [Container with max area](./B2%20LEETCODE-Medium/Two-Pointers/)
+    - [2 Sum](./B2%20LEETCODE-Medium/Two-Pointers/Two-sum-2.js)
+    - [3 Sum](./B2%20LEETCODE-Medium/Two-Pointers/three-sum.js)
