@@ -182,6 +182,10 @@ _-With JavaScript and TypeScript_
     - [Zig Zag level traversal](./B2%20LEETCODE-Medium/Trees/Zig-Zag-traversal.js)
 
   - [Two Pointers](./B2%20LEETCODE-Medium/Two-Pointers/)
+    - [Array with elements not equal to average of neighbour](./B2%20LEETCODE-Medium/Two-Pointers/array-with-elements-ot-equal-to-average-of-neighbour.js)
+    - [Boats to save people](./B2%20LEETCODE-Medium/Two-Pointers/boats-to-save-people.js)
     - [Container with max area](./B2%20LEETCODE-Medium/Two-Pointers/)
+    - [Remove Duplicates](./B2%20LEETCODE-Medium/Two-Pointers/remove-duplicates-from-sorted-array2.js)
+    - [Rotate Array](./B2%20LEETCODE-Medium/Two-Pointers/rotate-array.js)
     - [2 Sum](./B2%20LEETCODE-Medium/Two-Pointers/Two-sum-2.js)
     - [3 Sum](./B2%20LEETCODE-Medium/Two-Pointers/three-sum.js)
