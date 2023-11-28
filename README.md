@@ -45,6 +45,7 @@ _-With JavaScript and TypeScript_
 ### Leet Code Problems
 
 - [Easy Level Problems](./B1%20LEETCODE-Easy/)
+
   - [Arrays](./B1%20LEETCODE-Easy/Arrays/)
     - [Remove Elements](./B1%20LEETCODE-Easy/Arrays/remove_element.js)
     - [Construct array from permutation](./B1%20LEETCODE-Easy/Arrays/array-from-permutation.js)
@@ -100,6 +101,9 @@ _-With JavaScript and TypeScript_
     - [Sum of array](./B1%20LEETCODE-Easy/Recursion/sum-of-array.js)
     - [Sum all the numbers which are multiples of 3,5 and 7](./B1%20LEETCODE-Easy/Recursion/sum-multiples.js)
     - [Get nth Element in a linked list](./B1%20LEETCODE-Easy/Linked%20List/nth-element.js)
+  - [Sliding Window](./B1%20LEETCODE-Easy/Sliding%20Window/)
+    - [Best time to buy and sell stock](./B1%20LEETCODE-Easy/Sliding%20Window/best-time-to-buy-and-sell-stocks.js)
+    - [Contains Duplicate 2](./B1%20LEETCODE-Easy/Sliding%20Window/contains-duplicate-2.js)
   - [Stacks and Queues](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/)
     - [Backspace String Compare](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/backspace-string-compare.js)
     - [BaseBall Game](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/baseball-game.js)
@@ -121,6 +125,7 @@ _-With JavaScript and TypeScript_
     - [Post order traversal](./B1%20LEETCODE-Easy/Trees/post-order-traversal.js)
     - [Pre order traversal](./B1%20LEETCODE-Easy/Trees/pre-order-traversal.js)
     - [Maximum depth of tree](./B1%20LEETCODE-Easy/Trees/max-depth.js)
+
 - [Medium Level Problems](./B2%20LEETCODE-Medium/)
 
   - [Array and Hashings](./B2%20LEETCODE-Medium/Array-and-Hashing/)
@@ -157,6 +162,10 @@ _-With JavaScript and TypeScript_
     - [Subsets 2](./B2%20LEETCODE-Medium/Backtracking/subsets2.js)
     - [Generate parenthesis](./B2%20LEETCODE-Medium/Backtracking/generate-parenthesis.js)
     - [Letter Tile possibilities](./B2%20LEETCODE-Medium/Backtracking/letter-tiles-possibilities.js)
+
+  - [Sliding Windows](./B2%20LEETCODE-Medium/Sliding%20Window/)
+
+    - [Longest Substring without repeating characters](./B2%20LEETCODE-Medium/Sliding%20Window/longest-substring-without-repeating-characters.js)
 
   - [String](./B2%20LEETCODE-Medium/String/)
 
