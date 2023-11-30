@@ -165,7 +165,10 @@ _-With JavaScript and TypeScript_
 
   - [Sliding Windows](./B2%20LEETCODE-Medium/Sliding%20Window/)
 
+    - [Longest repeating character replacement](./B2%20LEETCODE-Medium/Sliding%20Window/longest-repeating-character-replacement.js)
     - [Longest Substring without repeating characters](./B2%20LEETCODE-Medium/Sliding%20Window/longest-substring-without-repeating-characters.js)
+    - [Number of subarrays](./B2%20LEETCODE-Medium/Sliding%20Window/number-of-subarrays.js)
+    - [Permutation in a string](./B2%20LEETCODE-Medium/Sliding%20Window/permutation-in-string.js)
 
   - [String](./B2%20LEETCODE-Medium/String/)
 
