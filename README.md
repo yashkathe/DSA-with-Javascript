@@ -163,11 +163,23 @@ _-With JavaScript and TypeScript_
     - [Generate parenthesis](./B2%20LEETCODE-Medium/Backtracking/generate-parenthesis.js)
     - [Letter Tile possibilities](./B2%20LEETCODE-Medium/Backtracking/letter-tiles-possibilities.js)
 
+  - [Binary Search](./B2%20LEETCODE-Medium/Binary-Search/)
+
+    - [Capacity to Ship Packages](./B2%20LEETCODE-Medium/Binary-Search/capacity-to-ship-packages.js)
+    - [Find Minimum in Rotated Sorted Array](./B2%20LEETCODE-Medium/Binary-Search//Find-Minimum-in-rotated-sorted-array.js)
+    - [Koko eating bananas](./B2%20LEETCODE-Medium/Binary-Search/koko-eating-bananas.js)
+    - [Search in Rotated Sorted Array](./B2%20LEETCODE-Medium/Binary-Search/Search-in-rotated-sorted-array.js)
+
   - [Sliding Windows](./B2%20LEETCODE-Medium/Sliding%20Window/)
 
+    - [Fruits in Basket](./B2%20LEETCODE-Medium/Sliding%20Window/fruits-in-basket.js)
     - [Longest repeating character replacement](./B2%20LEETCODE-Medium/Sliding%20Window/longest-repeating-character-replacement.js)
     - [Longest Substring without repeating characters](./B2%20LEETCODE-Medium/Sliding%20Window/longest-substring-without-repeating-characters.js)
     - [Number of subarrays](./B2%20LEETCODE-Medium/Sliding%20Window/number-of-subarrays.js)
+    - [Maximum Number of vowels in a Substring](./B2%20LEETCODE-Medium/Sliding%20Window/Maximum-number-of-vowels-in-a-substring.js)
+    - [Minimum Operations to reuduce X to 0](./B2%20LEETCODE-Medium/Sliding%20Window/min_operations_to_reduce_x_to_zero.js)
+    - [Minimum Size of subarray Sum](./B2%20LEETCODE-Medium/Sliding%20Window/minimum-size-subarray-sum.js)
+    - [Number of Subarrays](./B2%20LEETCODE-Medium/Sliding%20Window/number-of-subarrays.js)
     - [Permutation in a string](./B2%20LEETCODE-Medium/Sliding%20Window/permutation-in-string.js)
 
   - [String](./B2%20LEETCODE-Medium/String/)
