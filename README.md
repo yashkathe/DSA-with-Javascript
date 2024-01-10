@@ -47,6 +47,7 @@ _-With JavaScript and TypeScript_
 - [Easy Level Problems](./B1%20LEETCODE-Easy/)
 
   - [Arrays](./B1%20LEETCODE-Easy/Arrays/)
+
     - [Remove Elements](./B1%20LEETCODE-Easy/Arrays/remove_element.js)
     - [Construct array from permutation](./B1%20LEETCODE-Easy/Arrays/array-from-permutation.js)
     - [Decompress run length encoded list](./B1%20LEETCODE-Easy/Arrays/decompress-run-length.js)
@@ -55,9 +56,13 @@ _-With JavaScript and TypeScript_
     - [Number of good pairs](./B1%20LEETCODE-Easy/Arrays/number-of-good-pairs.js)
     - [Running sum of 1d array](./B1%20LEETCODE-Easy/Arrays/running-sum-1d.js)
     - [Difference of sum](./B1%20LEETCODE-Easy/Arrays/difference-of-sum.js)
+
   - [Binary Search](./B1%20LEETCODE-Easy/Binary%20Search/)
+
     - [Count negative numbers in a sorted matrix](./B1%20LEETCODE-Easy/Binary%20Search/count-negatives.js)
+
   - [Binary Tree](./B1%20LEETCODE-Easy/Binary%20Trees/)
+
     - [Solve the boolean binary tree](./B1%20LEETCODE-Easy/Binary%20Trees/boolean-binary-tree.js)
     - [Find corresponding node in clone](./B1%20LEETCODE-Easy/Binary%20Trees/)
     - [Check if certain value exists in binary tree](./B1%20LEETCODE-Easy/Binary%20Trees/)
@@ -67,7 +72,9 @@ _-With JavaScript and TypeScript_
     - [Check if tress have similar leaves](./B1%20LEETCODE-Easy/Binary%20Trees/leaf-similar-trees.js)
     - [Check if two trees are similar](./B1%20LEETCODE-Easy/Binary%20Trees/same-trees.js)
     - [Is Uni Value Tree](./B1%20LEETCODE-Easy/Binary%20Trees/is-uni-value.js)
+
   - [Binary Search Tree](./B1%20LEETCODE-Easy/Binary-Search-Tree/)
+
     - [Increasing order search tree](./B1%20LEETCODE-Easy/Binary-Search-Tree/increasing-order-search-tree.js)
     - [Minimum Distance between bst nodes](./B1%20LEETCODE-Easy/Binary-Search-Tree/min-dist-between-nodes.js)
     - [Range Sum of BST](./B1%20LEETCODE-Easy/Binary-Search-Tree/range-sum.js)
@@ -75,7 +82,9 @@ _-With JavaScript and TypeScript_
     - [Mode in BST](./B1%20LEETCODE-Easy/Binary-Search-Tree/mode-in-bst.js)
     - [Two Sum for BST nodes](./B1%20LEETCODE-Easy/Binary-Search-Tree/two-sum.js)
     - [Maximum sum from root to leaf](./B1%20LEETCODE-Easy/Binary-Search-Tree/max-sum-root-to-leaf.js)
+
   - [Hash Tables](./B1%20LEETCODE-Easy/Hash%20Tables/)
+
     - [Arithmetic Triplets](./B1%20LEETCODE-Easy/Hash%20Tables/Arithmetic-triplets.js)
     - [Decode message given a key](./B1%20LEETCODE-Easy/Hash%20Tables/Decode-message.js)
     - [Equal occurences of string](./B1%20LEETCODE-Easy/Hash%20Tables/equal-occurence-string.js)
@@ -84,33 +93,47 @@ _-With JavaScript and TypeScript_
     - [Number of consistent strings when reversed](./B1%20LEETCODE-Easy/Hash%20Tables/number-of-consistent-strings.js)
     - [Sort the people according to their heights](./B1%20LEETCODE-Easy/Hash%20Tables/Sort-the-people.js)
     - [Unique Morse code](./B1%20LEETCODE-Easy/Hash%20Tables/unique-morse-code.js)
+
   - [Linked List](./B1%20LEETCODE-Easy/Linked%20List/)
+
+    - [Intersection of Linked List](./B1%20LEETCODE-Easy/Linked%20List/intersection-of-linked-list.js)
     - [Middle of Linked List](./B1%20LEETCODE-Easy/Linked%20List/middle-of-linked-list.js)
+    - [Linked List Cycle](./B1%20LEETCODE-Easy/Linked%20List/linked-list-cycle.js)
     - [Palindrome Linked List](./B1%20LEETCODE-Easy/Linked%20List/palindrome-linked-list.js)
     - [Remove duplicates from sorted list](./B1%20LEETCODE-Easy/Linked%20List/remove-duplicates-from-sorted-list.js)
     - [Remove linked list elements](./B1%20LEETCODE-Easy/Linked%20List/remove-linked-list-elements.js)
     - [Print linked list as string](./B1%20LEETCODE-Easy/Linked%20List/linked_list-to-string.js)
     - [Get nth Element in a linked list](./B1%20LEETCODE-Easy/Linked%20List/nth-element.js)
+
   - [Merging and Sorting](./B1%20LEETCODE-Easy/Merging%20and%20Sorting/)
+
     - [Merge two sorted lists](./B1%20LEETCODE-Easy/Merging%20and%20Sorting/merge_two_sorted_lists.js)
     - [Remove duplicates from sorted array](./B1%20LEETCODE-Easy/Merging%20and%20Sorting/remove_duplicates_from_sorted_array.js)
+
   - [Recursion](./B1%20LEETCODE-Easy/Recursion/)
+
     - [Power of 2](./B1%20LEETCODE-Easy/Recursion/power-of-2.js)
     - [Power of 4](./B1%20LEETCODE-Easy/Recursion/power-of-4.js)
     - [Print linked list as string](./B1%20LEETCODE-Easy/Linked%20List/linked_list-to-string.js)
     - [Sum of array](./B1%20LEETCODE-Easy/Recursion/sum-of-array.js)
     - [Sum all the numbers which are multiples of 3,5 and 7](./B1%20LEETCODE-Easy/Recursion/sum-multiples.js)
     - [Get nth Element in a linked list](./B1%20LEETCODE-Easy/Linked%20List/nth-element.js)
+
   - [Sliding Window](./B1%20LEETCODE-Easy/Sliding%20Window/)
+
     - [Best time to buy and sell stock](./B1%20LEETCODE-Easy/Sliding%20Window/best-time-to-buy-and-sell-stocks.js)
     - [Contains Duplicate 2](./B1%20LEETCODE-Easy/Sliding%20Window/contains-duplicate-2.js)
+
   - [Stacks and Queues](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/)
+
     - [Backspace String Compare](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/backspace-string-compare.js)
     - [BaseBall Game](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/baseball-game.js)
     - [Max nesting depth](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/max-nesting-depth.js)
     - [Remove outermost Parentheses](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/remove-outermost-parentheses.js)
     - [Check if its valid parentheses](./B1%20LEETCODE-Easy/Stacks%20and%20Queues/valid-parentheses.js)
+
   - [Strings](./B1%20LEETCODE-Easy/String/)
+
     - [Two Sum](./B1%20LEETCODE-Easy/String/two-sum.js)
     - [Palindrome Number](./B1%20LEETCODE-Easy/String/palindrome-number.js)
     - [Roman to Integer](./B1%20LEETCODE-Easy/String/roman-to-integer.js)
@@ -119,7 +142,9 @@ _-With JavaScript and TypeScript_
     - [Maximum Number of Words Found in Sentence](./B1%20LEETCODE-Easy/String/max-words-in-sentence.ts)
     - [Jewels and Stones](./B1%20LEETCODE-Easy/String/jewels-and-stones.ts)
     - [Goal Parser Interpretation](./B1%20LEETCODE-Easy/String/goal-parser.ts)
+
   - [Trees](./B1%20LEETCODE-Easy/Trees/)
+
     - [Construct height balanced binary tree using sorted array](./B1%20LEETCODE-Easy/Trees/create-tree-using-sorted-array.js)
     - [Invert Binary Tree](./B1%20LEETCODE-Easy/Trees/invert-binary-tree.js)
     - [Post order traversal](./B1%20LEETCODE-Easy/Trees/post-order-traversal.js)
@@ -167,6 +192,7 @@ _-With JavaScript and TypeScript_
 
     - [Capacity to Ship Packages](./B2%20LEETCODE-Medium/Binary-Search/capacity-to-ship-packages.js)
     - [Find Minimum in Rotated Sorted Array](./B2%20LEETCODE-Medium/Binary-Search//Find-Minimum-in-rotated-sorted-array.js)
+    - [Find First and Last Position of Element in a Sorted Array](./B2%20LEETCODE-Medium/Binary-Search/first-last-position-of-target-in-sorted-array.js)
     - [Koko eating bananas](./B2%20LEETCODE-Medium/Binary-Search/koko-eating-bananas.js)
     - [Search in Rotated Sorted Array](./B2%20LEETCODE-Medium/Binary-Search/Search-in-rotated-sorted-array.js)
 
