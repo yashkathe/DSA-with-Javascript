@@ -173,6 +173,7 @@ _-With JavaScript and TypeScript_
     - [Merge other linked list in between two nodes of previous list](./B2%20LEETCODE-Medium/Linked%20List/merge-in-between.js)
     - [Remove Node having greater value anywhere to the right side of it](./B2%20LEETCODE-Medium/Linked%20List/remove-nodes.js)
     - [Swap nodes in pairs of two](./B2%20LEETCODE-Medium/Linked%20List/swap-nodes.in-pairs.js)
+    - [Remove nth node from end of list](./B2%20LEETCODE-Medium/Linked%20List/remove-nth-node-from-end.js)
     - [Two Sum](./B2%20LEETCODE-Medium/Linked%20List/sum-of-nodes.js)
     - [Sort Colors](./B2%20LEETCODE-Medium/Array-and-Hashing/sort-colors.js)
 
@@ -235,7 +236,9 @@ _-With JavaScript and TypeScript_
     - [Array with elements not equal to average of neighbour](./B2%20LEETCODE-Medium/Two-Pointers/array-with-elements-ot-equal-to-average-of-neighbour.js)
     - [Boats to save people](./B2%20LEETCODE-Medium/Two-Pointers/boats-to-save-people.js)
     - [Container with max area](./B2%20LEETCODE-Medium/Two-Pointers/)
+    - [Maximise Confusion of a Exam](./B2%20LEETCODE-Medium/Two-Pointers/maximize-confusion-of-exam.js)
     - [Remove Duplicates](./B2%20LEETCODE-Medium/Two-Pointers/remove-duplicates-from-sorted-array2.js)
     - [Rotate Array](./B2%20LEETCODE-Medium/Two-Pointers/rotate-array.js)
     - [2 Sum](./B2%20LEETCODE-Medium/Two-Pointers/Two-sum-2.js)
     - [3 Sum](./B2%20LEETCODE-Medium/Two-Pointers/three-sum.js)
+    - [4 Sum](./B2%20LEETCODE-Medium/Two-Pointers/four-sum.js)
